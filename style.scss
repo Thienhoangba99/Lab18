@@ -1,0 +1,33 @@
+.bg-img {
+    &1 {
+        background-color: #000;
+        background-size: cover;
+        background-image: url('https://vnn-imgs-f.vgcloud.vn/2019/11/11/19/nhung-sieu-moto-dat-nhat-the-gioi-cao-nhat-gia-1-trieu-usd.jpg');
+    }
+
+    &2 {
+        background-color: #000;
+        background-size: cover;
+        background-image: url('https://xelaban.com/wp-content/uploads/2021/08/honda-africa-twin-2021-kham-pha-van-truong.jpg');
+    }
+
+    &3 {
+        background-color: #000;
+        background-size: cover;
+        background-image: url('https://doanhnhanplus.vn/wp-content/uploads/2021/02/20210206-wlovecar-honda-cb650r-1.jpg');
+    }
+}
+
+.carousel-item {
+    height: 800px;
+}
+
+.copyright-menu {
+    float: right;
+}
+
+.copyright {
+    a {
+        margin-left: 0.5rem;
+    }
+}
